@@ -1,0 +1,6 @@
+urllib3
+requests
+pynput
+time
+difflib
+pygetwindow

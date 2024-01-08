@@ -1,0 +1,6 @@
+Model Name: Mistral-11B-CC-Air-RP.q4_k_m.gguf
+/all Teemo is dead!
+/all Teemo is not a bot has been slain by the hands of [your summoner name]!
+/all Teemo's last words: RIP, ganks!
+/all Teemow has been slain by the mighty kalamari
+*/all Teemo is dead!!*
