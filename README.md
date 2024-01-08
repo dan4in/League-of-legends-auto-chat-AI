@@ -1,11 +1,9 @@
 # League-of-legends-auto-chat-AI
 
+![a1](https://github.com/dan4in/League-of-legends-auto-chat-AI/assets/53431991/a652d99f-7e24-4537-96c2-cb97614881b7)
 
-![Image](https://github.com/users/dan4in/projects/3/assets/53431991/5b006800-bc36-4ffe-97e6-eb637b28dd20)
+![a2](https://github.com/dan4in/League-of-legends-auto-chat-AI/assets/53431991/af8670dd-2b04-4cd2-a324-05688c4228e4)
 
-
-
-![Image](https://github.com/users/dan4in/projects/3/assets/53431991/551436c5-0d22-4bb1-9239-fe9d0157aa8b)
 
 **## AutoChat for League of Legends with OpenAI API
 
